@@ -1,6 +1,0 @@
-{
-  "alpaca_en": {
-    "hf_hub_url": "llamafactory/alpaca_en",
-    "formatting": "alpaca"
-  }
-}
